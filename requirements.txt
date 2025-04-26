@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+sentencepiece
+PyMuPDF==1.22.3
+python-docx
